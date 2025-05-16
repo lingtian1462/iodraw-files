@@ -72,8 +72,19 @@
         <mxCell id="MSF_anx27fMEQFS3ewSR-47" value="副ai" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1250" y="910" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="MSF_anx27fMEQFS3ewSR-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MSF_anx27fMEQFS3ewSR-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1500" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MSF_anx27fMEQFS3ewSR-49" value="副ai" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1250" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MSF_anx27fMEQFS3ewSR-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1500" y="620" as="targetPoint" />
+            <mxPoint x="1370" y="740.0344827586207" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="MSF_anx27fMEQFS3ewSR-51" value="副ai" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1250" y="720" width="120" height="60" as="geometry" />
