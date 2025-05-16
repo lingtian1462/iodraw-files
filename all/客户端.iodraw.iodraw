@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MSF_anx27fMEQFS3ewSR-3" value="start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="450" y="160" width="100" height="60" as="geometry" />
+          <mxGeometry x="400" y="240" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MSF_anx27fMEQFS3ewSR-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MSF_anx27fMEQFS3ewSR-5" target="MSF_anx27fMEQFS3ewSR-89">
           <mxGeometry relative="1" as="geometry" />
