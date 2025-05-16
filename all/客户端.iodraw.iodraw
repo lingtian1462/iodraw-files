@@ -52,8 +52,20 @@
         <mxCell id="MSF_anx27fMEQFS3ewSR-42" value="主ai" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1070" y="590" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="MSF_anx27fMEQFS3ewSR-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MSF_anx27fMEQFS3ewSR-47" target="MSF_anx27fMEQFS3ewSR-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MSF_anx27fMEQFS3ewSR-47" value="副ai" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1260" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MSF_anx27fMEQFS3ewSR-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MSF_anx27fMEQFS3ewSR-49" target="MSF_anx27fMEQFS3ewSR-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MSF_anx27fMEQFS3ewSR-49" value="副ai" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MSF_anx27fMEQFS3ewSR-51" value="副ai" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
