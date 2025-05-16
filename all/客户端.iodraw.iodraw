@@ -25,6 +25,11 @@
         <mxCell id="MSF_anx27fMEQFS3ewSR-13" value="显示ui" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="430" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="MSF_anx27fMEQFS3ewSR-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MSF_anx27fMEQFS3ewSR-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1060" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MSF_anx27fMEQFS3ewSR-14" value="ai" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="580" width="120" height="60" as="geometry" />
         </mxCell>
