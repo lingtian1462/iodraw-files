@@ -25,8 +25,14 @@
         <mxCell id="MSF_anx27fMEQFS3ewSR-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MSF_anx27fMEQFS3ewSR-13" target="MSF_anx27fMEQFS3ewSR-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="MSF_anx27fMEQFS3ewSR-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MSF_anx27fMEQFS3ewSR-13" target="MSF_anx27fMEQFS3ewSR-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MSF_anx27fMEQFS3ewSR-13" value="显示ui" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MSF_anx27fMEQFS3ewSR-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MSF_anx27fMEQFS3ewSR-14" target="MSF_anx27fMEQFS3ewSR-42">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MSF_anx27fMEQFS3ewSR-14" value="ai" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="580" width="120" height="60" as="geometry" />
@@ -36,6 +42,9 @@
         </mxCell>
         <mxCell id="MSF_anx27fMEQFS3ewSR-32" value="翻页与对话框" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1070" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MSF_anx27fMEQFS3ewSR-42" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="580" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
