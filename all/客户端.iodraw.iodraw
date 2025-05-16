@@ -19,8 +19,8 @@
         <mxCell id="MSF_anx27fMEQFS3ewSR-7" value="程序准备" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="730" y="190" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MSF_anx27fMEQFS3ewSR-9" value="" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="720" y="300" width="100" height="60" as="geometry" />
+        <mxCell id="MSF_anx27fMEQFS3ewSR-10" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="170" width="70" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
